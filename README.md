@@ -6,7 +6,7 @@ SPM has two modes of running:
 
 Direct mode commands: 
 - *Doctor*: Check configuration and execute unit tests of SPM.
-- *Install*: Install new packages by name, starting from <unpkg.com>.
+- *Install*: Install new packages by name, starting from <https://unpkg.com>.
 
 Share sheet commands: 
 - *Init*: Initialize a new Scriptable package from the Script. Creates directories for libraries and tests.
